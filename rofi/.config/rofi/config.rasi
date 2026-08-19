@@ -1,0 +1,4 @@
+configuration {
+		modi:"window,drun,ssh,combi,calc,emoji,filebrowser";
+}
+@theme "~/.config/rofi/nord.rasi"

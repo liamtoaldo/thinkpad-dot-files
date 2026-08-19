@@ -1,0 +1,16 @@
+# Swap files
+*.swp
+*.swo
+*~
+.#*
+
+# Neovim undo history
+*.un~
+
+# Caches
+.cache/
+__pycache__/
+
+# Sockets and temporaries
+*.sock
+/tmp/
